@@ -1,6 +1,6 @@
 # arquivo-Dockerfile-para-Wordpress-com-MySQL
 
-
+Podemos simular com vsCode ou um leito de codigo que você tenha, É importante ter Docker no Abiente que ira executalo, o Docker tem na versão linux e windows.
 
 Utilizando Node.js criei uma imagem de uma API desenvolvida em Node.js.
 Depois disso  eu utiliso o comando "npm init -y" para cria um arquivo package.json
