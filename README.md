@@ -26,7 +26,7 @@ Para verificar se ele executou corretamente, digite o comando a baixo no termina
 Agora para que possa criar o contêiner a partir da imagem que acabamos de criar, devemos executar o comando a baixo passando as portas que iremos utilizar:
 "docker run -p 3000:8081 tadrianonet/nodeapi"
 
-Abra o endereço http://127.0.0.1:3000/ no seu navegador para que possamos validar se os passos anteriores estão OK.
+Abra o endereço <a target="_blank" href="http:127.0.0.1:30000"> localhost </a> no seu navegador para que possamos validar se os passos anteriores estão OK.
 Assim devera aparece uma msn dizendo Olá!.
 
 ![image](https://user-images.githubusercontent.com/88870830/168209080-5562108e-3b9d-4b7d-af72-986a11f6aebe.png)
